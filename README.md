@@ -1,6 +1,6 @@
 ![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=FnrDev&show_icons=true&theme=tokyonight)
 
-```
+```js
 const Fnr = {
     name: "Ahmed",
     age: "16",
