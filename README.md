@@ -3,7 +3,7 @@
 ```js
 const Fnr = {
     name: "Ahmed",
-    age: 16,
+    age: 17,
     from: "Bahrain",
     Discord: "Fnr#9999",
     technologies: {
