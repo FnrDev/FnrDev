@@ -5,7 +5,7 @@ const Fnr = {
     name: "Ahmed",
     age: 17,
     from: "Bahrain",
-    Discord: "Fnr#9999",
+    Discord: "Fnr#0017",
     technologies: {
         backend: ["NodeJS", "express"],
         database: ["Mysql", "MongoDB"],
