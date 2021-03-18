@@ -14,6 +14,8 @@ const Fnr = {
 };
 ```
 
+[img]https://discord.c99.nl/widget/theme-3/596227913209217024.png[/img]
+
 <a href="https://github.com/FnrDev?tab=followers">
   <img src="https://img.shields.io/github/followers/FnrDev">
 </a>
