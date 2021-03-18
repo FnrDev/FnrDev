@@ -1,4 +1,5 @@
 ![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=FnrDev&show_icons=true&theme=tokyonight)
+![Discord](https://discord.c99.nl/widget/theme-3/596227913209217024.png)
 
 ```js
 const Fnr = {
@@ -14,7 +15,6 @@ const Fnr = {
 };
 ```
 
-![Discord](https://discord.c99.nl/widget/theme-3/596227913209217024.png)
 
 <a href="https://github.com/FnrDev?tab=followers">
   <img src="https://img.shields.io/github/followers/FnrDev">
