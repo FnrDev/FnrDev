@@ -1,11 +1,17 @@
 ### GitHub Stats
 ![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=FnrDev&count_private=true&show_icons=true&theme=radical)
 
+---
+
 ### Discord Profile
 ![Discord](https://discord.c99.nl/widget/theme-1/596227913209217024.png)
 
+---
+
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&redirect=true)
+
+---
 
 ```js
 const Fnr = {
