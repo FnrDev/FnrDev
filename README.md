@@ -13,6 +13,12 @@ const Fnr = {
     languages: ["Python", "HTML", "CSS", "JavaScript"]
 };
 ```
+<a href="https://github.com/FnrDev?tab=followers">
+  <img src="https://img.shields.io/github/followers/FnrDev">
+</a>
+<a href="https://github.com/FnrDev">
+   <img src="https://komarev.com/ghpvc/?username=FnrDev">
+</a>
 ---
 
 ### GitHub Stats 🌟
@@ -27,12 +33,3 @@ const Fnr = {
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&redirect=true)
-
----
-
-<a href="https://github.com/FnrDev?tab=followers">
-  <img src="https://img.shields.io/github/followers/FnrDev">
-</a>
-<a href="https://github.com/FnrDev">
-   <img src="https://komarev.com/ghpvc/?username=FnrDev">
-</a>
