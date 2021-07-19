@@ -19,6 +19,7 @@ const Fnr = {
 <a href="https://github.com/FnrDev">
    <img src="https://komarev.com/ghpvc/?username=FnrDev">
 </a>
+
 ---
 
 ### GitHub Stats 🌟
