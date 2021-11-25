@@ -18,7 +18,7 @@ const Fnr = {
 ### GitHub Stats 🌟
 ![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=FnrDev&count_private=true&show_icons=true&theme=radical)
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fnrdev&layout=compact&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fnrdev&layout=compact&theme=synthwave)
 ---
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fnr&theme=synthwave)
 
