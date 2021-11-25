@@ -17,7 +17,7 @@ const Fnr = {
 
 ### GitHub Stats 🌟
 ![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=FnrDev&count_private=true&show_icons=true&theme=radical)
-[![Fnr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FnrDev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fnrdev&layout=compact&theme=synthwave)
 
 <a href="https://github.com/FnrDev?tab=followers">
   <img src="https://img.shields.io/github/followers/FnrDev">
