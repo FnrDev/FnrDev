@@ -20,7 +20,7 @@ const Fnr = {
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fnrdev&layout=compact&theme=synthwave)
 ---
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fnr&theme=synthwave)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fnr&theme=synthwave)
 
 <a href="https://github.com/FnrDev?tab=followers">
   <img src="https://img.shields.io/github/followers/FnrDev">
