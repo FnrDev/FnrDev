@@ -9,10 +9,19 @@ const Fnr = {
     technologies: {
         backend: ["NodeJS", "express"],
         database: ["Mysql", "MongoDB"],
+        others: ["Git", "GitHub", "NPM", "Cloudflare"]
     },
     languages: ["Python", "HTML", "CSS", "JavaScript"]
 };
 ```
+---
+⚒ Worked on:
+- <img src="https://cdn.discordapp.com/emojis/667093495865147402.webp" width="20" height="25"> [ProBot Tax](https://pbtax.xyz/) | [@ProBotTax](https://github.com/probot-tax) | Founder & Developer
+- <img src="https://cdn.discordapp.com/emojis/667093495865147402.webp" width="20" height="25"> [ProBot](https://probot.io/) | [ProBot Locale](https://github.com/probotorg/locale) | Contributor
+- 💻 [Slash Commands Repositorie](https://github.com/FnrDev/slash-commands) | Repositorie Maintainer & Developer
+- 💻 [Ticket Bot](https://github.com/FnrDev/ticket-bot) | Repositorie Maintainer & Developer
+- 📦 [Weather API Data](https://github.com/FnrDev/weather-api-data) | Repositorie Maintainer & Developer
+
 ---
 
 ### GitHub Stats 🌟
