@@ -14,6 +14,7 @@ const Fnr = {
     languages: ["Python", "HTML", "CSS", "JavaScript"]
 };
 ```
+[Discord Server](https://discord.gg/hHweGgGqXa)
 ---
 ### ⚒ Worked on:
 - <img src="https://cdn.discordapp.com/emojis/667093495865147402.webp" width="20" height="25"> [ProBot Tax](https://pbtax.xyz/) | [@ProBotTax](https://github.com/probot-tax) | Founder & Developer
