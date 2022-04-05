@@ -1,18 +1,8 @@
-### About Me 👤
+## Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25">, my name is Ahmed
 
-```js
-const Fnr = {
-    name: "Ahmed",
-    age: 17,
-    from: "Bahrain",
-    Discord: "Fnr#0017",
-    technologies: {
-        backend: ["NodeJS", "express"],
-        database: ["Mysql", "MongoDB"],
-        others: ["Git", "GitHub", "NPM", "Cloudflare"]
-    },
-    languages: ["Python", "HTML", "CSS", "JavaScript"]
-};
+## 🔭 Working with
+```
+- ProBot.io
 ```
 ---
 ### ⚒ Biggest repositories worked on :
@@ -44,3 +34,7 @@ const Fnr = {
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&redirect=true)
+
+### 📫 You can Find me on
+<a href="mailto://fnr@pbtax.xyz"><img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="gmail" width="30"></a>
+<a href="https://www.instagram.com/bcoq/" target="blank"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="instgram" width="30"></a>
