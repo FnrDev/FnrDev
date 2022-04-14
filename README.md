@@ -14,10 +14,11 @@
 ---
 
 ### GitHub Stats 🌟
-![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=FnrDev&count_private=true&show_icons=true&theme=radical)
+![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=FnrDev&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=FnrDev&theme=algolia&count-private=true&v=2">
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fnrdev&layout=compact&theme=synthwave)
-
+<img src="https://activity-graph.herokuapp.com/graph?username=FnrDev&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FnrDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 <a href="https://github.com/FnrDev?tab=followers">
   <img src="https://img.shields.io/github/followers/FnrDev">
 </a>
@@ -26,15 +27,9 @@
 </a>
 
 ---
-
-### Discord Profile ✨
+### Contact Me ✨
 ![Discord](https://discord.c99.nl/widget/theme-1/596227913209217024.png)
-
 ---
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=bb5e7y8mfcco6zb9axn8a3cq6&redirect=true)
-
-### 📫 You can Find me on
-<a href="mailto://fnr@pbtax.xyz"><img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="gmail" width="30"></a>
-<a href="https://www.instagram.com/bcoq/" target="blank"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="instgram" width="30"></a>
