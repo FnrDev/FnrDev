@@ -7,7 +7,7 @@
 ```
 ---
 ### ⚒ Biggest repositories worked on :
-- [Slash Commnads](https://github.com/FnrDev/slash-commands) A discord bot supports slash commands feature **(40+ stars)**
+- [Slash Commnads](https://github.com/FnrDev/slash-commands) A discord bot supports slash commands feature **(50+ stars)**
 - [Ticket Bot](https://github.com/FnrDev/ticket-bot) A ticket bot with unique features, You can check list of all features [here](https://github.com/FnrDev/ticket-bot#-features) **(12+ stars)**
 - [Discord Bot Dashboard](https://github.com/FnrDev/dashboard) A simple dashboard for discord bots **(10+ forks)**
 - [Role Components](https://github.com/FnrDev/role-components) An easy bot to create discord buttons & select menu components. **(5+ stars)**
