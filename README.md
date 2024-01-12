@@ -1,6 +1,6 @@
 Hey there! 👋 I'm Ahmed, a 19-year-old software developer based in Bahrain. I've contributed to some cool projects, including:
 
-- **ProBot:** worked on many features on the bot side, for example, starboard, self-assignable (reaction roles), memberships, and much more!
+- **[ProBot](https://probot.io/):** worked on many features on the bot side, for example, starboard, self-assignable (reaction roles), memberships, and much more!
 - **Raiq Store:** Software Developer
 
 ## Open-Source Passion 🚀
